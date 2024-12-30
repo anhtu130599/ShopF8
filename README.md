@@ -1,1 +1,1 @@
-.
+Đã có QR code hover, các nút bấm trên header.
